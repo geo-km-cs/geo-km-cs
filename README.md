@@ -27,11 +27,11 @@
 
 ### 🧠 Skills & Ferramentas
 
-![Python](https://img.icons8.com/?size=100&id=Ve5z6WN65Tg6&format=png&color=000000)
-![JavaScript](https://img.icons8.com/?size=100&id=hKrJAdwqbGgG&format=png&color=000000)
-![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
-![C#](https://img.shields.io/badge/-CSharp-333?style=for-the-badge&logo=c-sharp)
-![Linux](https://img.icons8.com/?size=100&id=fG5Tnj4ARIoI&format=png&color=000000)
+![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+![Linux](https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000)
 ![PostgreSQL](https://img.icons8.com/?size=100&id=Pv4IGT0TSpt8&format=png&color=000000)
 
 ---
