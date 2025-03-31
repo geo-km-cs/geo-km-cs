@@ -8,7 +8,7 @@
 ## 🕶️ H4CKELL4: Simulador Hacker
 
 <p align="center">
-  <img src="https://github.com/geo-km-cs/geo-km-cs/raw/main/h4ckella-preview.gif"width="600" alt="Jogo H4CKELL4 em ação">
+  <img src="https://github.com/geo-km-cs/geo-km-cs/raw/main/h4ckella-preview.gif.gif"width="600" alt="Jogo H4CKELL4 em ação">
 </p>
 
 > Digite comandos como `start`, `nmap`, `ssh` e `hack --force` e sinta-se dentro de um terminal hacker real!
