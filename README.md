@@ -36,6 +36,10 @@
 ![SAP](https://img.icons8.com/?size=100&id=dKbIIE5UJspb&format=png&color=000000)
 ![SALESFORCE](https://img.icons8.com/?size=100&id=38804&format=png&color=000000)
 ![DOCKER](https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000)
+![C#](https://img.icons8.com/?size=100&id=55205&format=png&color=000000)
+![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
+![POWERBI](https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000)
+![FIGMA](https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000)
 
 
 ---
