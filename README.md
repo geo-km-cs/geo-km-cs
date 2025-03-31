@@ -2,7 +2,7 @@
 <h3 align="center">Exploradora do universo tech, apaixonada por segurança da informação e bugs com solução 🔐🐞</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="300" alt="Códigos piscando na tela">
+  <img src="https://media.giphy.com/media/ZFtMzrE3jA0sE/giphy.gif" width="300" alt="Cyber Hacker Terminal">
 </p>
 
 ---
