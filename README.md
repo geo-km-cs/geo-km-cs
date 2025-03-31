@@ -52,10 +52,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Geo GitHub stats"/>
-</p>
+### 🌸 Iniciativas & Impacto Social
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=20&center=true&vCenter=true&width=500&lines=Stay+curious...+Stay+cyber!" />
-</p>
+- 👩🏾‍💻 Fundadora do projeto **Ellas**, focado em ajudar mulheres microempreendedoras com sites e presença digital
+- 🤝 Participação ativa em projetos colaborativos e voluntariado na Campus Party Nordeste e Rec'n Play 
+- 💡 Desenvolvimento de apps com impacto educacional e social
+
