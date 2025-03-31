@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://geo-km-cs.github.io/h4ckella" target="_blank">
-    <img src="https://github.com/geo-km-cs/geo-km-cs/raw/main/h4ckella-preview.gif" width="600" alt="Jogo H4CKELL4 em ação">
+    <img src="https://github.com/geo-km-cs/geo-km-cs/raw/main/h4ckella-preview.gif.gif" width="600" alt="Jogo H4CKELL4 em ação">
   </a>
 </p>
 
