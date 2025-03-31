@@ -2,7 +2,7 @@
 <h3 align="center">Exploradora do universo tech, apaixonada por segurança da informação e bugs com solução 🔐🐞</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Cyber Hacker Girl GIF">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="Menina de cabelo cacheado digitando no notebook">
 </p>
 
 ---
