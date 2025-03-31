@@ -46,7 +46,7 @@
 
 ### 🌍 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-link)
+[![LinkedIn](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)](https://www.linkedin.com/in/geovanaklyh4ckella/)
 [![Instagram](https://img.shields.io/badge/-@h4ckella-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-insta)
 [![GitHub](https://img.shields.io/badge/-GitHub_Portfólio-333?style=for-the-badge&logo=github)](https://github.com/seu-usuario)
 
