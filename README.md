@@ -6,6 +6,16 @@
 </p>
 
 ---
+## 🕶️ H4CKELL4: Simulador Hacker
+
+<p align="center">
+  <img src="https://github.com/geovanakm/geovanakm/raw/main/h4ckella_preview_cortado.gif" width="600" alt="Jogo H4CKELL4 em ação">
+</p>
+
+> Digite comandos como `start`, `nmap`, `ssh` e `hack --force` e sinta-se dentro de um terminal hacker real!
+
+🎮 Curtiu a vibe?  
+👉 [Clique aqui para jogar](https://geo-km-cs.github.io/h4ckella)
 
 ### 💻 Sobre mim
 
